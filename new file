@@ -1,0 +1,6 @@
+pop
+push 10
+save 20
+get 20
+pop
+push 40
